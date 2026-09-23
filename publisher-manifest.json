@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1db1925dd01ca79722390e6a",
+  "owner": "xerth4",
+  "repo": "page-d01142be894249027f3ae28f",
+  "title": "Cyber",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d01142be894249027f3ae28f",
+      "a": "Cyber",
+      "b": "机场官网线路发布页",
+      "entity": "Cyber",
+      "brand": "Cyber",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cde207239acc96ccf7e9c3e8036d92ab50502019f5c5f9a2f9fe8f4461fb193b",
+      "content": {
+        "primary_entity": "Cyber",
+        "keyword1": "Cyber",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外加速场景提供三档订阅方案，基础版、旗舰版与团队版分别覆盖轻度浏览、多设备家庭与团队协作需求。节点线路按套餐区分，旗舰版额外提供 IPLC 专线游戏加速优化，团队版支持企业定制路由。可按月或按年付，年付方案在月费基础上节省两个月支出。",
+          "AI_HERO_SUBTITLE": "Cyber 海外加速订阅方案",
+          "AI_HERO_INTRO": "Cyber 提供基础版、旗舰版与团队版三档海外加速订阅，分别对应每月 100GB、300GB 与 1000GB 流量，支持 3 台、5 台与 20 台设备同时在线。用户按设备数量与流量需求选择套餐，再依据客户端文档完成订阅配置。",
+          "AI_VISUAL_TITLE": "Cyber 加速方案选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "年付相当于省两个月费用",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "根据设备数量、月流量与线路偏好选择套餐，减少资源浪费或超出限制。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先统计常用设备再决定。",
+          "AI_FEATURE_TITLE_2": "按流量选周期",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻量浏览，300GB 适合流媒体与游戏，1000GB 适合团队共享。",
+          "AI_FEATURE_TITLE_3": "按线路选版本",
+          "AI_FEATURE_TEXT_3": "普通线路节点池满足日常访问，旗舰版含 IPLC 专线，团队版支持定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "订阅可导入支持订阅链接的客户端，按设备系统选择对应版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在价格、流量、设备数与线路上逐级提升，年付均按十个月计费。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到客户端导入，按三步完成加速配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对客户端的系统版本要求，确认支持订阅导入与当前套餐的设备限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按照客户端文档完成节点选择与连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "年付比月付节省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，均相当于十个月月费，比逐月支付节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "团队版可以支持多少设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，提供 VIP 专属高带宽节点与专属客户经理服务，适合小团队共享使用。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端中粘贴订阅地址后刷新节点列表，具体操作可参照所用客户端的订阅导入文档，不同客户端步骤略有差异。",
+          "AI_FAQ_QUESTION_5": "可以先月付再转年付吗？",
+          "AI_FAQ_ANSWER_5": "可以，月付订单到期前再选择年付方案即可。切换时留意当前套餐剩余流量和到期时间，避免重复购买。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "按设备数与流量需求对比三档套餐，选定后依客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vltduto.cn",
+    "host": "vltduto.cn"
+  },
+  "file_hashes": {
+    "index.html": "981dd86ba69f343cb4c37b20cab7cb95a3800b2e067219dc712bb60abab35de4",
+    "sitemap.xml": "a0e8656d43707ba8de227a035cf6ab86ed2df2e9136816b506941c0b5dd9d7fe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "89b369d5d5e49f6c032ac1991de8b181f481d461ac5f619f1ab948a10e3f6f4c",
+    "robots.txt": "1b8bc6d18b10d7ecb2d7dbcfa0ef083bcd00a2655adf2be13b523e167db20f9d",
+    "bba34c7eb1a1d6f05410f11a2fafcc1d.txt": "cfaa7bcd436442e0407a99c5135110a9ebc477c08eb8acea81301510e1e40489"
+  },
+  "revision": "0057c56b268d9b94b8e7fc2dbdb0e89881e51cbededb8dc24b535f5ca16d5688"
+}
